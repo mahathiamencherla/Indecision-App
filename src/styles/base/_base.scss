@@ -1,0 +1,23 @@
+//@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Antic');
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: $dark-blue;
+    color: white;
+    font-family: 'Antic';
+    font-size: $m-size;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: default;
+}
+
