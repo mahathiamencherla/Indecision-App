@@ -3,7 +3,7 @@
     border: none;
     border-bottom: .4rem solid darken($purple, 10%);
     border-radius: 0.5rem;
-    color: white;
+    color: $off-black;
     font-size: $l-size;
     font-weight: bold;
     width: 100%;
@@ -24,7 +24,7 @@
     border: none;
     border-bottom: .3rem solid darken($purple, 10%);
     border-radius: 0.5rem;
-    color: white;
+    color: $off-black;
     font-weight: 500;
     padding: $s-size;
 }
